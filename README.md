@@ -12,17 +12,25 @@ This is the sample project I have created on Excel that any store engaged in the
 
 👉 Here are the brief details about the functionality of the project:
 
+
 📌The first sheet is created to make purchase and sales entries.
+
 📌The second sheet contains all purchase entries.
+
 📌The third sheet comprises all sales entries.
+
 📌The fourth sheet shows the availability of all stocks in the store with graphical and tabular representation, along with profit/loss and cash flow.
 
 
 👉 Techniques and Functions used in this Excel project:
 
+
 ✅Table Functions
+
 ✅Lookup Functions
+
 ✅Mathematical and Logical Functions like SUMIFS, COUNTIFS, IFs.
+
 ✅Macros & VBAs
 
 
